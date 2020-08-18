@@ -1,0 +1,12 @@
+/web-extension.crx
+/bot.log
+/..crx
+*.crx
+/venv/
+/chromedriver
+/*.session
+/build
+/dist
+*.spec
+/.idea/*
+.gitignore
